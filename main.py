@@ -21,7 +21,7 @@ import config # Import the file to parse config files.
 import sys  # For sys.exit
 import os
 
-title = "Notepad 2.1/2"
+title = "Notepad 0.75"
 
 cfg = config.generate_config(f"{os.getcwd()}config.yaml")
 
