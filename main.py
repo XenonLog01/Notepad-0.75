@@ -23,7 +23,7 @@ import os
 
 title = "Notepad 0.75"
 
-cfg = config.generate_config(f"{os.getcwd()}config.yaml")
+cfg = config.generate_config(f"{os.getcwd()}\\config.yaml")
 
 # Create a window
 win = tk.Tk()
